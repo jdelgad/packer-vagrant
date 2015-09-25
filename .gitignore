@@ -1,0 +1,13 @@
+# Created by https://www.gitignore.io/api/vagrant,packer
+
+### Vagrant ###
+.vagrant/
+
+
+### Packer ###
+# Cache objects
+packer_cache/
+
+# For built boxes
+*.box
+
