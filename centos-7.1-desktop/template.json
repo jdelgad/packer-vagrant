@@ -52,5 +52,7 @@
         }
       }
     }
+      "iso_checksum": "c875b0f1dabda14f00a3e261d241f63e",
+      "iso_url": "file:///Users/jacob.delgado/packer-vagrant/CentOS-7-x86_64-DVD-1511.iso",
   ]
 }
